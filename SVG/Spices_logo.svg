@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 485.41 252.64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e22500;
+      }
+
+      .cls-2 {
+        font-family: CoveredByYourGrace, 'Covered By Your Grace';
+        font-size: 200px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-2" transform="translate(0 177.64)"><tspan x="0" y="0">Spices</tspan></text>
+      <circle class="cls-1" cx="474.41" cy="70.81" r="11"/>
+    </g>
+  </g>
+</svg>
